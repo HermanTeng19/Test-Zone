@@ -7,3 +7,4 @@ Today, we'll teach you a very cool skill.
 That is ~~~~~~~~~ GitHub!!!
 
 What???
+Let's go!
