@@ -1,12 +1,9 @@
 # Test-Zone
-The initial respository mainly for testing functions
 Hello, everyone, and welcome to my repository. Thank you so much!
 
-Today, we'll teach you a very cool skill.
+The initial repository mainly for brainstorming, ideas posting, discussion and communication
 
-That is ~~~~~~~~~ GitHub!!!
+List all your topics, ideas, thoughts come with associated mindmap, flowchart, execution plan,
+proposal, prototype mockup and even pseudo code under your name folder.
 
-What???
-Let's go!
-
-This time try clone and push again.
+The real project will be implemented in subject relevant repository after discussion and decision made.
